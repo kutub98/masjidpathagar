@@ -1,0 +1,29 @@
+.headers{
+    background: #aecb53;
+    padding: 30px 8% !important;
+    align-items: center;
+    align-items: center !important;
+    color: white !important;
+}
+.navbar-brand {
+    padding-top: var(--bs-navbar-brand-padding-y);
+    padding-bottom: var(--bs-navbar-brand-padding-y);
+    margin-right: var(--bs-navbar-brand-margin-end);
+    font-size: var(--bs-navbar-brand-font-size);
+    color: white !important;
+    font-weight: 600 !important;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.navbar-toggler {
+    padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
+    font-size: var(--bs-navbar-toggler-font-size);
+    line-height: 1;
+    color: var(--bs-navbar-color);
+    color: white !important;
+    background-color: transparent;
+    border: .2px solid white !important;
+    border-radius: var(--bs-navbar-toggler-border-radius);
+    transition: var(--bs-navbar-toggler-transition);
+}
